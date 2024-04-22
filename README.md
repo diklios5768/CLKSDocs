@@ -34,3 +34,8 @@
 - 服务器运维记录表：https://www.kdocs.cn/l/ciocJZNDd81k
 - 绩效任务分类文档：https://mm.edrawsoft.cn/app/editor/sx3qHKtja6hfq3ZPrxY3FF5inGMVBnGe?share=1&page=8889934693&，密码:PDUS
 - 作者单位与邮箱收集：https://www.kdocs.cn/l/ctmohPo2Gs9N
+
+## Contributors
+<a href="https://github.com/diklios5768/CLKSDocs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=diklios5768/CLKSDocs" />
+</a>
